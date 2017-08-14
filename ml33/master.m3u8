@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1494000,RESOLUTION=1280x720,NAME=“HD בא לי פרק”
+http://proxy-057.dc3.dailymotion.com/sec(9cfbfb793030b5b35da600ac825de6be)/video/250/227/357722052_mp4_h264_aac_hd.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1025000,RESOLUTION=853x480,NAME="איכות חיבור רגיל"
+http://proxy-057.dc3.dailymotion.com/sec(536afca36e4d19e7f8926349a6ca34f9)/video/250/227/357722052_mp4_h264_aac.m3u8
+
