@@ -1,0 +1,8 @@
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1323311
+#EXT-X-DISCONTINUITY-SEQUENCE:14
+#EXTINF:-1 tvg-ID="Sport5Plus.il" tvg-name="VIP IL: Sport 5  Live HD" tvg-logo="https://xiptv.com/logos/hebrew/Sport5LiveHD.png" group-title="Hebrew",VIP IL: Sport 5  Live HD
+http://client-proiptv.com:8080/live/hXgLV5Vqnh/X41bvtOJjG/5959.ts
