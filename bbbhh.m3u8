@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:457
+#EXTINF:10.0,
+http://client-proiptv.com:8080/live/hXgLV5Vqnh/X41bvtOJjG/5959.ts
+#EXTINF:10.0,
+http://client-proiptv.com:8080/live/hXgLV5Vqnh/X41bvtOJjG/5959.ts
+#EXTINF:10.0,
+http://client-proiptv.com:8080/live/hXgLV5Vqnh/X41bvtOJjG/5959.ts
